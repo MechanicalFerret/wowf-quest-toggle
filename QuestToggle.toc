@@ -1,0 +1,7 @@
+## Interface: 16001, 16002, 16003, 16100, 16101, 16200
+## Title: Quest Toggle
+## Notes: Adds a button to the map's quest log that tracks or untracks every quest at once.
+## Version: 1.0
+## OptionalDeps: Blizzard_WorldMap
+
+QuestToggle.lua
