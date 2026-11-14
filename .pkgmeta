@@ -1,0 +1,5 @@
+package-as: QuestToggle
+
+ignore:
+  - README.md
+  - .github
